@@ -1,0 +1,1085 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"boa",
+				"board_temp"
+			],
+			[
+				"clock",
+				"clock_time"
+			],
+			[
+				"pawn",
+				"pawn_specifiers"
+			],
+			[
+				"piece",
+				"piece_specifiers"
+			],
+			[
+				"cand",
+				"candidates"
+			],
+			[
+				"move",
+				"move_piece"
+			],
+			[
+				"que",
+				"queened_piece"
+			],
+			[
+				"occu",
+				"occupied"
+			],
+			[
+				"queening",
+				"queening_piece"
+			],
+			[
+				"li",
+				"live_board"
+			],
+			[
+				"dra",
+				"draw_im_button"
+			],
+			[
+				"ava",
+				"available_piecetypes"
+			],
+			[
+				"cl",
+				"clogic"
+			],
+			[
+				"turn",
+				"turn_colour"
+			],
+			[
+				"king",
+				"king"
+			],
+			[
+				"can",
+				"can_castle"
+			],
+			[
+				"availa",
+				"available_moves"
+			],
+			[
+				"pie",
+				"piece_specifiers"
+			],
+			[
+				"initi",
+				"initial_time"
+			],
+			[
+				"read",
+				"secs_to_readable"
+			],
+			[
+				"cloc",
+				"clock_time"
+			],
+			[
+				"colc",
+				"clock_time"
+			],
+			[
+				"secs",
+				"secs_to_readable"
+			],
+			[
+				"sec",
+				"secs_to_readable"
+			],
+			[
+				"ini",
+				"initialize_sidebar"
+			],
+			[
+				"scr",
+				"scroll_moves_up"
+			],
+			[
+				"suf",
+				"surf_temp"
+			],
+			[
+				"prin",
+				"printed_moves"
+			],
+			[
+				"print",
+				"printed_moves"
+			],
+			[
+				"moves",
+				"moves"
+			],
+			[
+				"allowed",
+				"allowed_sqs"
+			],
+			[
+				"fit",
+				"fit_length"
+			],
+			[
+				"ma",
+				"make_sigmas"
+			],
+			[
+				"ps",
+				"psf_file"
+			],
+			[
+				"new",
+				"new_range"
+			],
+			[
+				"show",
+				"show_graph"
+			],
+			[
+				"mult",
+				"multiprocessing"
+			],
+			[
+				"data",
+				"data_file"
+			],
+			[
+				"lengh",
+				"length_results"
+			],
+			[
+				"leng",
+				"length_results"
+			],
+			[
+				"syn",
+				"synth_tophat"
+			],
+			[
+				"psf",
+				"psf"
+			],
+			[
+				"convo",
+				"convolved_normed"
+			],
+			[
+				"zer",
+				"zero_point"
+			],
+			[
+				"con",
+				"convolved_normed"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"make",
+				"make_sigmas"
+			],
+			[
+				"opt",
+				"opt_data"
+			],
+			[
+				"conv",
+				"convolved_normed"
+			],
+			[
+				"ste",
+				"step_index"
+			],
+			[
+				"col",
+				"convolved"
+			],
+			[
+				"convl",
+				"convolved_normed"
+			],
+			[
+				"divi",
+				"divisor"
+			],
+			[
+				"l",
+				"l"
+			],
+			[
+				"synth",
+				"synth_tophat"
+			],
+			[
+				"top",
+				"tophatified"
+			],
+			[
+				"rea",
+				"real_data"
+			],
+			[
+				"mak",
+				"make_tophat"
+			],
+			[
+				"im_marg",
+				"im_marg_nobg"
+			],
+			[
+				"im",
+				"im_marg"
+			],
+			[
+				"curr",
+				"current_pos"
+			],
+			[
+				"cur",
+				"current_pos"
+			],
+			[
+				"cu",
+				"current_pos"
+			],
+			[
+				"p",
+				"printpiece"
+			],
+			[
+				"gho",
+				"ghost_board"
+			],
+			[
+				"avai",
+				"available_moves"
+			],
+			[
+				"allow",
+				"allowed_sqs"
+			],
+			[
+				"casl",
+				"castlable_sqs"
+			],
+			[
+				"castlable",
+				"castlable_sqs"
+			],
+			[
+				"check",
+				"check_sq"
+			],
+			[
+				"draw",
+				"draw_button"
+			],
+			[
+				"get_",
+				"get_pressed"
+			],
+			[
+				"all",
+				"allowed_sqs"
+			],
+			[
+				"pei",
+				"piece1"
+			],
+			[
+				"marg",
+				"marginalize_psf"
+			],
+			[
+				"hi",
+				"highlighted_sqs"
+			],
+			[
+				"hig",
+				"highlight"
+			],
+			[
+				"highl",
+				"highlighted_sqs"
+			],
+			[
+				"high",
+				"highlighted_sqs"
+			],
+			[
+				"sele",
+				"select_piece"
+			],
+			[
+				"rec",
+				"reconvert_coords"
+			],
+			[
+				"sq",
+				"sq_occupied"
+			],
+			[
+				"ge",
+				"get_pressed"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"get",
+				"getattr"
+			],
+			[
+				"bx",
+				"box_side"
+			],
+			[
+				"load",
+				"load_image"
+			],
+			[
+				"king_",
+				"king_w_im"
+			],
+			[
+				"coner",
+				"convert_coords"
+			],
+			[
+				"CO",
+				"COLOUR_BlACK"
+			],
+			[
+				"box",
+				"box_side"
+			],
+			[
+				"sources",
+				"sources"
+			],
+			[
+				"dumm",
+				"dummy_nosplit"
+			],
+			[
+				"words",
+				"words_to_lines"
+			],
+			[
+				"cut",
+				"cut_blocks"
+			],
+			[
+				"mag",
+				"mags_data"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"n",
+				"n_stars"
+			],
+			[
+				"no",
+				"no_comment"
+			],
+			[
+				"ori",
+				"orig_dims"
+			],
+			[
+				"rot",
+				"rot_points"
+			],
+			[
+				"orig",
+				"orig_points"
+			],
+			[
+				"sif",
+				"sift_ocl"
+			],
+			[
+				"pad",
+				"pady_before"
+			],
+			[
+				"padx",
+				"padx_before"
+			],
+			[
+				"row",
+				"row_difference"
+			],
+			[
+				"rotate",
+				"rotated_trim_2"
+			],
+			[
+				"rotated",
+				"rotated"
+			],
+			[
+				"save",
+				"save_fits"
+			],
+			[
+				"ro",
+				"rotate_fits"
+			],
+			[
+				"fits",
+				"fits_image"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"hough",
+				"hough_angle"
+			],
+			[
+				"cutoff",
+				"cutoff"
+			],
+			[
+				"test",
+				"test_image_rotated"
+			],
+			[
+				"image",
+				"image_to_array"
+			],
+			[
+				"tst",
+				"test_image"
+			],
+			[
+				"te",
+				"test_image"
+			],
+			[
+				"bigtest_border_rotate",
+				"bigtest_border_rotate_array"
+			],
+			[
+				"big",
+				"bigtest_border_rotate"
+			],
+			[
+				"ima",
+				"image_to_array"
+			],
+			[
+				"bigte",
+				"bigtest_border_rotate"
+			],
+			[
+				"fro",
+				"fromarray"
+			],
+			[
+				"mean",
+				"mean_0"
+			],
+			[
+				"flats",
+				"flats"
+			],
+			[
+				"flat",
+				"flats_array"
+			],
+			[
+				"fl",
+				"flats_array"
+			],
+			[
+				"var",
+				"var"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lexicon.py",
+			"settings":
+			{
+				"buffer_size": 622,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "game_setup.py",
+			"settings":
+			{
+				"buffer_size": 1242,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 1053,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Anaconda Python Builder",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 192.0,
+		"last_filter": "sublimelinter: no",
+		"selected_items":
+		[
+			[
+				"sublimelinter: no",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
+			[
+				"column",
+				"SublimeLinter: No Column Only Marks Gutter"
+			],
+			[
+				"mark",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"sublimelinter: clea",
+				"SublimeLinter: Clear Color Scheme Folder"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Enable linting on this file"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 286.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/benji/chess/chess_logic.py",
+		"/home/benji/chess/piece.py",
+		"/home/benji/chess/game.chessgame",
+		"/home/benji/chess/parse_moves.py",
+		"/home/benji/chess/button.py",
+		"/home/benji/chess/board.ini",
+		"/home/benji/chess/full_board.ini",
+		"/home/benji/chess/chess_0.3.py",
+		"/home/benji/chess/parsing_test.ini",
+		"/home/benji/chess/timings.py",
+		"/home/benji/chess/chess_0.2.py",
+		"/home/benji/Downloads/Clocky-v002/ChessClock.pyw",
+		"/home/benji/chess/button_freetype.py",
+		"/home/benji/Downloads/padlib/Example - 1 - Rounded Rectangles.py",
+		"/home/benji/Downloads/padlib/PAdLib/_padlib_rrect.py",
+		"/home/benji/chess/oceantemp.py",
+		"/home/benji/chess/chess.py",
+		"/home/benji/pgu/examples/gui9.py",
+		"/home/benji/Documents/1979XB_project/marginalize.py",
+		"/home/benji/.local/lib/python2.7/site-packages/handy.py",
+		"/home/benji/Documents/1979XB_project/1979XB.sublime-project",
+		"/home/benji/Documents/1979XB_project/length_results.csv",
+		"/home/benji/Documents/1979XB_project/handy.py",
+		"/home/benji/Documents/1979XB_project/marginalize.pyc",
+		"/home/benji/Documents/1979XB_project/view_sources.py",
+		"/home/benji/Documents/1979XB_project/psf/5523.psf.pst",
+		"/home/benji/.config/sublime-text-3/Cache/Python/Python.sublime-syntax.cache",
+		"/etc/apt/sources.list",
+		"/home/benji/Documents/1979XB_project/login.cl",
+		"/home/benji/Documents/1979XB_project/psf/5523.pst",
+		"/home/benji/Documents/1979XB_project/psf/5523.mag",
+		"/home/benji/Documents/1979XB_project/psf/5523_cut.mag",
+		"/home/benji/Documents/1979XB_project/psf/5523_cut.pst",
+		"/home/benji/Documents/1979XB_project/cut_pst.py",
+		"/home/benji/Documents/1979XB_project/cut_mags.py",
+		"/home/benji/Documents/1979XB_project/notepad.txt",
+		"/home/benji/Documents/1979XB_project/view_results.py",
+		"/home/benji/Documents/1979XB_project/source_extract.py",
+		"/home/benji/Documents/1979XB_project/psf/5523",
+		"/home/benji/.bashrc",
+		"/home/benji/Documents/1979XB_project/rotation_images/x3f/5523_1_trimmed_density_rotated_positions.csv",
+		"/home/benji/Documents/1979XB_project/rotation_images/x3f/5523_1.mag",
+		"/home/benji/Documents/1979XB_project/threshold_test.py",
+		"/home/benji/Documents/1979XB_project/uparmimlimarih.par",
+		"/home/benji/Documents/1979XB_project/SN_ratio.py",
+		"/home/benji/Documents/1979XB_project/hough.py",
+		"/home/benji/Documents/1979XB_project/crop_areas_rotation.txt",
+		"/home/benji/Documents/1979XB_project/rotTest.py",
+		"/home/benji/Documents/1979XB_project/hough_test.py",
+		"/.bashrc",
+		"/home/benji/Documents/1979XB_project/find_sources.pu",
+		"/home/benji/Documents/1979XB_project/handy",
+		"/home/benji/tools/SimpleCOSMOS/sc_reduce/sc_reduce.c",
+		"/home/benji/Documents/1979XB_project/process_files.py",
+		"/home/benji/Documents/1979XB_project/stack.py",
+		"/home/benji/Documents/1979XB_project/bias_gain_frames/gain.py",
+		"/home/benji/Documents/1979XB_project/master_flat_frames/rename.py",
+		"/home/benji/Documents/1979XB_project/bias_gain_frames/remove_junk.py",
+		"/home/benji/Documents/1979XB_project/bias_gain_frames/rename.py",
+		"/home/benji/Documents/1979XB_project/test.py",
+		"/home/benji/Documents/1979XB_project/gain.py",
+		"/home/benji/Desktop/croptest.py",
+		"/home/benji/Documents/1979XB_project_old/process_files.py",
+		"/home/benji/Documents/1979XB_project_old/reduce_all_files.sc"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rint",
+			"knight",
+			"draw_moves",
+			"available_moves",
+			"classic_to_cart",
+			"cart_to_classic",
+			"set_board",
+			"set",
+			"draw_im_button",
+			"queening =",
+			"queening",
+			"queen",
+			"in_check",
+			"turn",
+			"print",
+			"turn",
+			"all_piece",
+			"move_piece",
+			"live_board",
+			"pieces",
+			"check",
+			"ghost",
+			"available_moves",
+			"can_castle",
+			"castlable_sqs",
+			"can_castle",
+			"sq_occupied",
+			"can_castle",
+			"castlable_sqs",
+			"available_moves",
+			"sq_occupied",
+			"in_check",
+			"available_moves",
+			"set_board",
+			"pygame.font",
+			"text.writepre",
+			"#",
+			"clock",
+			"imbutton",
+			"color",
+			"rect[3]",
+			"rect[2]",
+			"rect[0],rect[1]",
+			"hight",
+			"copy",
+			"prefix",
+			"linelimit",
+			"lineLimit",
+			"highlight",
+			"text",
+			"gui",
+			"lines",
+			"draw",
+			"gui",
+			"print",
+			"can_castle",
+			"turn",
+			"can_castle",
+			"king on ",
+			"in_check",
+			"threatened",
+			"in_check",
+			"pieces",
+			"available_moves",
+			"king",
+			"time",
+			"sleep",
+			")",
+			"(",
+			"numpy",
+			"print",
+			"highlight",
+			"printpiece",
+			"print",
+			"in_check",
+			"set_board",
+			"board",
+			"pieces",
+			"sq_occupied",
+			"pieces",
+			"sq_occupied",
+			"available_moves",
+			"available",
+			"check",
+			"initial_position",
+			"allowed_sqs",
+			"queening",
+			"move_piece",
+			"move",
+			"diagonally",
+			"print",
+			"classic_to_pix",
+			"range",
+			"moved",
+			"highlight",
+			"classic_to_pix",
+			"classic_to_ix",
+			"classic_to_pux",
+			"can_castle",
+			"sq_occupied",
+			"check_sq",
+			"can_castle",
+			"row[colour]",
+			"sq_occupied",
+			"print",
+			"queen",
+			"queen_knight",
+			"alpha",
+			"convert_alpha",
+			"re_move_coords",
+			"move_coords",
+			"reconvert_coords",
+			"convert_coords",
+			"1",
+			"highlighted_sqs",
+			"-8",
+			"occupied",
+			"None",
+			"deselect_",
+			"select_piece",
+			"draw_moves",
+			"screen",
+			"box_side",
+			"bloc",
+			"195",
+			"1952",
+			"fig",
+			"transmition_to"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"live_board",
+			"pygame.freetype",
+			"# ",
+			"colour",
+			"height",
+			"width",
+			"x, y",
+			"]",
+			"[",
+			"np",
+			"pieces",
+			"board",
+			"output",
+			"#print",
+			"row",
+			"cart_to_classic",
+			"classic_to_cart",
+			"pix_to_classic",
+			"classic_to_pix",
+			"8",
+			"allowed_sqs",
+			"block",
+			"flat"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lexicon.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "game_setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								590,
+								590
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 128.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 477.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 381.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "lexicon.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/1979XB_project/1979XB.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
